@@ -1,7 +1,7 @@
 # Applying_SQL_Filters
 
 ## Description
-In this lab, I used SQL to investigate a potential security incident in a fictional company. The potential securtiy incident occurred after business hours so I used SQL queries to identify all failed login attempts that occurred after 18:00.
+In this lab, I used SQL to investigate a potential security incident in a fictional company. The potential securtiy incident occurred after business hours so I used SQL queries to identify all failed login attempts that occurred after 18:00 as well as a couple of other different criterea.
 
 # Walkthrough:
 
